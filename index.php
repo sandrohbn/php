@@ -1,3 +1,3 @@
 <?php
-	echo "Meu primeiro <strong>PHP</strong>";
+	echo "Curso <strong>PHP</strong>";
 ?>
